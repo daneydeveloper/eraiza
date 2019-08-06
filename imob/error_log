@@ -1,0 +1,4 @@
+[28-Apr-2017 10:47:19 America/Belem] PHP Fatal error:  Cannot use object of type stdClass as array in /home/eraiza/imob.eraizaalvesimoveis.com.br/application/controllers/Api.php on line 119
+[28-Apr-2017 10:52:25 America/Belem] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/eraiza/imob.eraizaalvesimoveis.com.br/application/controllers/Api.php on line 90
+[28-Apr-2017 10:52:44 America/Belem] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/eraiza/imob.eraizaalvesimoveis.com.br/application/controllers/Api.php on line 90
+[28-Apr-2017 10:55:39 America/Belem] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/eraiza/imob.eraizaalvesimoveis.com.br/application/controllers/Api.php on line 90
